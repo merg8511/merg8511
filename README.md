@@ -1,7 +1,7 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Mario Rodríguez
 =======================================================================================================================================
 
-Junior Web Developer
+Web Developer
 --------------------
 
 Soy un apasionado desarrollador web con experiencia en tecnologías .NET. Actualmente trabajo como Junior Web Developer en una empresa de desarrollo de software, donde estoy involucrado en la creación de aplicaciones web para el sector de restaurantes. Mi objetivo es seguir creciendo profesionalmente en el campo del desarrollo web y contribuir a proyectos innovadores y desafiantes.
